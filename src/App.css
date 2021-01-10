@@ -1,0 +1,24 @@
+
+.title{
+    margin-left:10%;
+    margin-right:10%;
+    padding:8%;
+    text-align: center;
+}
+.Display{
+  margin-top:5%;
+  border:2px solid;
+}
+.buttons {
+  margin:5%;
+  margin-left:35%;
+  display:flex;
+
+
+}
+.b1{
+  margin-right:5% ;
+}
+.bi{
+  margin-left: auto;
+}
